@@ -90,6 +90,9 @@ You can remove permissions you don't use:
            ## dart: PermissionGroup.photos
            # 'PERMISSION_PHOTOS=0',
   
+           ## dart: PermissionGroup.photosAddOnly
+           # 'PERMISSION_PHOTOS_ADD_ONLY=0',
+
            ## dart: [PermissionGroup.location, PermissionGroup.locationAlways, PermissionGroup.locationWhenInUse]
            # 'PERMISSION_LOCATION=0',
           
